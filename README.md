@@ -1,6 +1,6 @@
-# Arc Raiders DMA - External Cheat
+This project is not working, please contact me via Discord
+My discord: Konete 
 
-![Status](https://img.shields.io/badge/Status-Active-green) ![Platform](https://img.shields.io/badge/Platform-Windows%20x64-blue) ![DMA](https://img.shields.io/badge/Hardware-DMA-orange)
 
 An external, hardware-based (DMA) ESP and Radar for Arc Raiders. Built with C++, MemProcFS, and DirectX 11. Designed for thread safety and performance.
 
